@@ -2,7 +2,7 @@ package com.example.demo.service;
 
 import static java.io.File.createTempFile;
 
-import com.my.company.file.bucket.BucketComponent;
+import com.exemple.demo.file.bucket.BucketComponent;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
