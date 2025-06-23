@@ -1,7 +1,7 @@
 package com.example.demo.endpoint.rest.controller.health;
 
-import com.exemple.endpoint.mail.Email;
-import com.exemple.endpoint.mail.Mailer;
+import com.exemple.demo.mail.Email;
+import com.exemple.demo.mail.Mailer;
 import jakarta.mail.internet.InternetAddress;
 import java.util.List;
 import lombok.AllArgsConstructor;
