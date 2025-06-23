@@ -2,7 +2,7 @@ package com.example.demo.service.event;
 
 import com.example.demo.endpoint.event.model.SendEmailRequested;
 import com.example.demo.mail.Email;
-import com.my.company.mail.Mailer;
+import com.example.demo.mail.Mailer;
 import jakarta.mail.internet.InternetAddress;
 import java.util.List;
 import java.util.function.Consumer;
